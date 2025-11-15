@@ -16,7 +16,7 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 backdrop-blur supports-[backdrop-filter]:bg-black/30 bg-black/20 border-b border-white/10">
       <div className="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between">
         <a href="#home" className="text-white font-semibold tracking-tight">
-          CS Student | Web Dev & Hosting
+          Albin C.L. | Web Dev & Hosting
         </a>
         <nav className="hidden md:flex items-center gap-6">
           {navItems.map((item) => (

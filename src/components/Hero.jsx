@@ -8,7 +8,7 @@ export default function Hero() {
       </div>
       <div className="relative z-10 h-full">
         <div className="mx-auto max-w-6xl h-full px-4 flex flex-col justify-center">
-          <p className="text-sm uppercase tracking-[0.3em] text-white/70">CS Student • Web Developer • Hosting Specialist</p>
+          <p className="text-sm uppercase tracking-[0.3em] text-white/70">Albin C.L. • CS Student • Web Developer • Hosting Specialist</p>
           <h1 className="mt-3 text-4xl sm:text-5xl md:text-6xl font-bold leading-tight">
             Building and Deploying <span className="text-indigo-300">Seamless</span> Digital Experiences
           </h1>
